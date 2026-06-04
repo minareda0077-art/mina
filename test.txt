@@ -1,0 +1,1 @@
+Success! GitHub Pages integration works perfectly using the classic token.
